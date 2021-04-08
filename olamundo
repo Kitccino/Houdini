@@ -1,0 +1,52 @@
+<h1 id="title">Eu vou ser substituido</h1>
+    <script>
+
+        
+     //console.log("Olá Mundo!");
+     //document.getElementById("title").innerHTML = "Olá Mundo";
+    
+    
+     
+
+     //var olaMundo = function()
+     //{
+     //    document.write("<h1>Olá, Mundo!</h1>");
+     //}
+     // olaMundo();
+     //function olaMundo()
+
+     // var participantes = ("Bruno", "Vincente");
+     // document.write("<h2>" + participantes + "</h2");
+     //var primeiroNome = "Daniela";
+
+     //var text = "<h1>" + primeiroNome.toLowerCase() + "<h1>";
+     //document.write(text);
+
+
+     //var player = "Daniela S";
+     //var score = 10;
+
+
+     //var displayScore = "<h2> A pontuação do jogador" + player + "é" + score + "pontos.</h2>";
+     //document.write(displayScore);
+     //var primeiroNome = "Daniela";
+     //var ultimoNome = "Sousa";
+     //var idade = 19;
+
+     //console.log(primeiro + " " + ultimoNome + "ten"+ idade);
+     //var numero1 = 3;
+     //var numero2 = 6;
+
+     //console.log(numero1++);  doesnt work
+     //console.log(++numero1);  works  :D
+
+     //console.log(numero1 * numero2);
+     //console.log(numero1 % numero2);
+     
+     //alert(numero1 == numero2);
+         
+     //var numero3 = "5";
+     // var numero3 = numero1 + numero2;
+     //console.log(numero3);
+
+     //Typescript existe agora :D
